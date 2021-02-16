@@ -23,3 +23,7 @@ Andrew Lang, a children literature author
 
 ML_LSTM_Trend.ipynb: Similar to ML_Conv1D_Trend.ipynb, but I use LSTM network to see
 their performance difference
+
+ML_PetrolPricePrediction.ipynb: I train a LSTM network to study the historical price 
+of different brands of petrol and use it to predict the futrue petrol price up to 2022.
+
