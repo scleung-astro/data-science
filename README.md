@@ -18,6 +18,17 @@ tv shows available on NetFlix
 ### DS_Pfizer.ipynb
 Semantic analysis of Tweet's about the vaccine by Pfizer
 
+### DS_Practice_LinearRegression.ipynb
+
+### DS_Practice_LogisticRegression.ipynb
+
+### DS_Practice_RandomForest.ipynb
+
+### DS_Practice_SVM.ipynb
+
+The above four notebooks contains exercises following the tuitorial for 
+various regression techniques commonly used for data exercise. 
+
 ### DS_Ramen.ipynb
 Statistical analysis for instant Ramen available in Amazon
 
