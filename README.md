@@ -11,6 +11,10 @@ of architecture (regression, neural network...).
 ### DS_Diabetes.ipynb
 Classification of diabete patients based on exogenous parameters
 
+### DS_FacebookBids.ipynb
+Classification of suspicious (Robot-like) transaction from the 
+transaction history. 
+
 ### DS_Netflix.ipynb
 Full analysis on statistical, network and language of the movie and 
 tv shows available on NetFlix
