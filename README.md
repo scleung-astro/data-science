@@ -36,8 +36,16 @@ various regression techniques commonly used for data exercise.
 ### DS_Ramen.ipynb
 Statistical analysis for instant Ramen available in Amazon
 
+### DS_Starbuck.ipynb
+Using the customer transaction data and their demography, I studied the 
+effect of campaign to the overall shop transaction and also the genearl
+purchase habit of customers
+
 ### DS_StockPattern.ipynb
 Numerical analysis of stock using indicators
+
+### DS_Telco.ipynb
+Using the demography and service usage to predict whether the customer churns
 
 ### ML_AndGate.ipynb
 Using Artifical Neural Network (ANN) to mimic a logical "AND" gate
