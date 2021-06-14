@@ -19,6 +19,11 @@ transaction history.
 Full analysis on statistical, network and language of the movie and 
 tv shows available on NetFlix
 
+### DS_OnlineRetail.ipynb
+A demonstration of building a product suggestion model based on a
+full year of transaction record. It also touches the consumption 
+habit of that online retail shop. 
+
 ### DS_Pfizer.ipynb
 Semantic analysis of Tweet's about the vaccine by Pfizer
 
@@ -43,6 +48,11 @@ purchase habit of customers
 
 ### DS_StockPattern.ipynb
 Numerical analysis of stock using indicators
+
+### DS_StockSentiment.ipynb
+A sentiment classification based on the labeled tweets about stocks, 
+their companies and price movements. The Random Forest Classifier is 
+used to classify if a tweet is positive or negative about a certain stock.
 
 ### DS_Telco.ipynb
 Using the demography and service usage to predict whether the customer churns
